@@ -13,3 +13,4 @@ App is served on port 8080
 ## To modify the C code
 1. Make changes to fizzbuzz.c
 2. In `root` directory, run `emcc -o fizzbuzz.html src/fizzbuzz.c -O3 -s WASM=1 --shell-file src/shell_minimal.html`
+3. Start the server (`node server.js`)
