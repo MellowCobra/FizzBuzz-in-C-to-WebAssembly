@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz-c-wasm",
+  "version": "1.0.0",
+  "description": "An implementation of fizzbuzz in C, compiled to Web Assembly and running in the browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grayson M. Dubois @MellowCobra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
